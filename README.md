@@ -1,18 +1,5 @@
 # Benjamín Iván Torres Cossani
 
-```text
-  ·                                       ·
-       ·             software
-                     aviation
-                     technology
-                                              ·
-              +                    ·
-
-  ·                       systems / ideas / projects
-
-       ·                                      ·
-```
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=1200&color=888888&vCenter=true&width=600&lines=Software+Development+Student;Building%2C+learning+and+exploring;Commercial+Pilot+%C2%B7+IFR" alt="Typing SVG" />
 </p>
