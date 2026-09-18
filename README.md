@@ -6,11 +6,9 @@
 
 I'm a Software Development student from **Argentina**, currently in the final stage of my degree.
 
-I'm interested in software development as a whole rather than limiting myself to a single language or stack. I enjoy building practical projects, understanding how systems work and exploring different areas of technology — from web and mobile development to databases and hardware.
+I'm interested in software development as a whole rather than limiting myself to a single language or framework. I enjoy building practical solutions, understanding how systems work and exploring different areas of technology, from web and mobile development to databases and hardware.
 
 I'm also a **Commercial Pilot with an IFR rating**. Aviation has shaped the way I approach technical work, particularly through attention to detail, clear communication, teamwork, decision-making and working with structured procedures.
-
----
 
 ## Technologies
 
@@ -42,18 +40,18 @@ I'm also a **Commercial Pilot with an IFR rating**. Aviation has shaped the way 
 
 I've worked with these technologies throughout different projects and stages of my studies. I'm continuously learning and interested in expanding into new tools and areas of software development.
 
----
-
 ## Selected Projects
 
 ### Stock Management System
+
 Stock management system currently being developed for a distributor, based on real operational requirements and day-to-day business needs.
 
 The project focuses on managing products, inventory and stock movements through a practical web-based system.
 
 `Python` `Django` `Tailwind CSS`
 
-### IEN Trabajo — Employment Platform
+### IEN Trabajo · Employment Platform
+
 Collaborative employment platform developed for IEN, designed to connect job applicants, companies and the institution.
 
 The project includes user management, custom authentication, job-related features and an **LLM-based module for CV analysis and candidate matching**.
@@ -61,6 +59,7 @@ The project includes user management, custom authentication, job-related feature
 `Python` `Django` `PostgreSQL` `React` `LLM`
 
 ### Ojo del Monte
+
 Deforestation detection project developed during a Devlights hackathon using satellite imagery and geospatial data.
 
 The project uses NDVI analysis with Sentinel-2 imagery to detect environmental changes and incorporates a predictive risk layer.
@@ -68,33 +67,27 @@ The project uses NDVI analysis with Sentinel-2 imagery to detect environmental c
 `Python` `Rasterio` `GeoPandas`
 
 ### DonAppétit
+
 Food donation platform designed to connect food donations with organizations and contribute to reducing food waste.
 
 `PHP` `MySQL` `Tailwind CSS`
 
----
-
 ## Other Projects
 
-**Medical Billing System** — Mobile application for managing and billing medical services.  
+**Medical Billing System** · Mobile application for managing and billing medical services.  
 `Dart` `Flutter` `SQLite`
 
-**NutriBalance** — Management system for nutritionists, patients and nutritional plans.  
+**NutriBalance** · Management system for nutritionists, patients and nutritional plans.  
 `Python` `Django` `SQLite`
 
-**App Bienal** — Cultural event application developed collaboratively from real project requirements.  
+**App Bienal** · Cultural event application developed collaboratively from real project requirements.  
 `Python`
-
-
----
 
 ## Beyond Software
 
 Technology is something I like exploring beyond traditional software development. I've experimented with **Arduino and basic electronics**, and I'm interested in continuing to understand different areas of computing, hardware and software.
 
-My aviation background also gives me a different perspective on technical work. Training as a pilot taught me the importance of **communication, teamwork, procedures, situational awareness and attention to detail** — skills I carry into software projects and collaborative environments.
-
----
+My aviation background also gives me a different perspective on technical work. Training as a pilot taught me the importance of **communication, teamwork, procedures, situational awareness and attention to detail**, skills I carry into software projects and collaborative environments.
 
 ## Currently
 
@@ -103,7 +96,10 @@ Building a stock management system for a distributor
 Working on collaborative software projects  
 Exploring new technologies and areas of software development
 
----
+## Languages
+
+**Spanish** · Native  
+**English** · B2 Upper-Intermediate
 
 ## Contact
 
