@@ -103,4 +103,4 @@ Exploring new technologies and areas of software development
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/benjamin-ivan-torres-cossani-aa3747266/) · [Email](ivanluxen76@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/benjamin-ivan-torres-cossani-aa3747266/) · [Email](mailto:ivanluxen76@gmail.com)
