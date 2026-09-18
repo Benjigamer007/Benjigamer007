@@ -47,22 +47,28 @@ I've worked with these technologies throughout different projects and stages of 
 ## Selected Projects
 
 ### Stock Management System
-Management system currently being developed for a distributor, based on real operational requirements and focused on product, inventory and stock management.
+Stock management system currently being developed for a distributor, based on real operational requirements and day-to-day business needs.
+
+The project focuses on managing products, inventory and stock movements through a practical web-based system.
 
 `Python` `Django` `Tailwind CSS`
 
-### IEN Trabajo — Employment & Training Platform
-Collaborative platform connecting job applicants, companies and the institute, with custom authentication and employment-related features.
+### IEN Trabajo — Employment Platform
+Collaborative employment platform developed for IEN, designed to connect job applicants, companies and the institution.
 
-`Django` `PostgreSQL` `React`
+The project includes user management, custom authentication, job-related features and an **LLM-based module for CV analysis and candidate matching**.
+
+`Python` `Django` `PostgreSQL` `React` `LLM`
 
 ### Ojo del Monte
-Deforestation detection project developed during a Devlights hackathon, using satellite imagery and geospatial data for NDVI change detection and predictive risk analysis.
+Deforestation detection project developed during a Devlights hackathon using satellite imagery and geospatial data.
+
+The project uses NDVI analysis with Sentinel-2 imagery to detect environmental changes and incorporates a predictive risk layer.
 
 `Python` `Rasterio` `GeoPandas`
 
 ### DonAppétit
-Food donation platform designed to help reduce food waste by connecting donations with organizations.
+Food donation platform designed to connect food donations with organizations and contribute to reducing food waste.
 
 `PHP` `MySQL` `Tailwind CSS`
 
@@ -71,13 +77,14 @@ Food donation platform designed to help reduce food waste by connecting donation
 ## Other Projects
 
 **Medical Billing System** — Mobile application for managing and billing medical services.  
-`Flutter` `Dart` `SQLite`
+`Dart` `Flutter` `SQLite`
 
-**NutriBalance** — Patient and nutritional plan management system for nutritionists.  
+**NutriBalance** — Management system for nutritionists, patients and nutritional plans.  
 `Python` `Django` `SQLite`
 
 **App Bienal** — Cultural event application developed collaboratively from real project requirements.  
 `Python`
+
 
 ---
 
