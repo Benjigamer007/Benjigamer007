@@ -51,25 +51,33 @@ Management system currently being developed for a distributor, based on real ope
 
 `Python` `Django` `Tailwind CSS`
 
-### IEN Trabajo
-Employment and continuous learning platform developed collaboratively, including user management, custom authentication and employment-related features.
+### IEN Trabajo — Employment & Training Platform
+Collaborative platform connecting job applicants, companies and the institute, with custom authentication and employment-related features.
 
 `Django` `PostgreSQL` `React`
 
 ### Ojo del Monte
-Deforestation detection project developed during a hackathon using satellite imagery and geospatial data to detect environmental changes and explore predictive risk analysis.
+Deforestation detection project developed during a Devlights hackathon, using satellite imagery and geospatial data for NDVI change detection and predictive risk analysis.
 
 `Python` `Rasterio` `GeoPandas`
 
 ### DonAppétit
-Food donation platform designed to connect donations with organizations and contribute to reducing food waste.
+Food donation platform designed to help reduce food waste by connecting donations with organizations.
 
 `PHP` `MySQL` `Tailwind CSS`
 
-### Medical Billing System
-Mobile application for managing and billing medical services.
+---
 
-`Dart` `Flutter` `SQLite`
+## Other Projects
+
+**Medical Billing System** — Mobile application for managing and billing medical services.  
+`Flutter` `Dart` `SQLite`
+
+**NutriBalance** — Patient and nutritional plan management system for nutritionists.  
+`Python` `Django` `SQLite`
+
+**App Bienal** — Cultural event application developed collaboratively from real project requirements.  
+`Python`
 
 ---
 
